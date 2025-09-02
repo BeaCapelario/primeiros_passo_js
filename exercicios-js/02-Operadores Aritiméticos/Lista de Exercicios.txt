@@ -1,0 +1,14 @@
+1)Peça ao usuário para inserir dois números. Calcule e exiba o resultado das quatro operações aritméticas básicas (soma, subtração, multiplicação e divisão) entre esses dois números.
+
+2) Crie um programa que solicite ao usuário as notas de três provas. Calcule e exiba a média aritmética dessas notas.
+
+3) Crie um programa que pergunte a largura e a altura de uma parede. Sabendo que 1 litro de tinta pinta 2 metros quadrados, calcule e exiba quantos litros de tinta serão necessários para pintar a parede.
+
+4)Calcule a diferença entre 2 números.
+
+5)Solicite 2 notas, e veja se o 1 é múltiplo do segundo. (ex. 9 é múltiplo de 
+
+6)Converta uma temperatura em celsius para Fahrenheit (ºc*9/5)+32 
+
+7) Calcule a área (base * altura).
+

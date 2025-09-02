@@ -1,0 +1,7 @@
+1) Crie um script que pergunte o nome do usuário e, em seguida, exiba uma mensagem de boas-vindas personalizada na tela, como "Olá, [nome do usuário]!".
+
+2) Crie um script que pergunte a disciplina favorita ao usuário, e exiba um alerta informando “A matéria {matéria} realmente é ótima”. 
+
+3) Peça ao usuário informar a data de hoje. 
+
+4) Pergunte ao usuário “Está preparado para o segundo semestre de desenvolvimento de sistemas?”
