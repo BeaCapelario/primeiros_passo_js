@@ -1,0 +1,20 @@
+Faça uma calculadora usando o conceito de Arrow Function;
+2.    Pedir uma idade e dizer se a pessoa pode tirar carteira de motorista.
+Criar um programa que peça três números e exiba-os em ordem crescente.
+Criar um programa que converta horas para minutos.
+Criar um programa que peça um valor e exiba quantas cédulas de R$200, R$100, R$50, R$20, R$10, R$5 e R$1 seriam necessárias para formar esse valor.
+Criar um programa que peça um número e exiba sua raiz quadrada.
+
+Cálculo do IMC: Crie uma função chamada calcular_imc que recebe a altura e o peso de uma pessoa como parâmetros e retorna o Índice de Massa Corporal (IMC) da pessoa. 
+Para calcular o IMC: peso / (altura²)
+
+Cálculo do Raio de um Círculo: Crie uma função chamada raio_circulo que recebe a área de um círculo como parâmetro e retorna o raio desse círculo.  Para calcular a área do circulo:
+
+Cálculo do Volume de um Cilindro: Crie uma função chamada volume_cilindro que recebe o raio da base e a altura de um cilindro como parâmetros e retorna o volume do cilindro. ○ Para calcular o volume do cilindro:
+
+ pi * raio² * altura 
+
+Cálculo da Área de um Quadrado: Crie uma função chamada area_quadrado que recebe o lado de um quadrado como parâmetro e retorna a área do quadrado. ○ Para calcular a área do quadrado: 
+
+lado * lado
+

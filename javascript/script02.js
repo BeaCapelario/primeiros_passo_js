@@ -28,3 +28,7 @@ let valor2 = Number(prompt("Informe o valor 2"))
 
 let resultado2 = soma(valor1, valor2)
 alert(resultado2)
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+// Arrow Function
