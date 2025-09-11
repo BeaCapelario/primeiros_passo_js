@@ -1,20 +1,102 @@
-Faça uma calculadora usando o conceito de Arrow Function;
-2.    Pedir uma idade e dizer se a pessoa pode tirar carteira de motorista.
-Criar um programa que peça três números e exiba-os em ordem crescente.
-Criar um programa que converta horas para minutos.
-Criar um programa que peça um valor e exiba quantas cédulas de R$200, R$100, R$50, R$20, R$10, R$5 e R$1 seriam necessárias para formar esse valor.
-Criar um programa que peça um número e exiba sua raiz quadrada.
+Faça uma calculadora usando o conceito de Arrow Function;​
 
-Cálculo do IMC: Crie uma função chamada calcular_imc que recebe a altura e o peso de uma pessoa como parâmetros e retorna o Índice de Massa Corporal (IMC) da pessoa. 
-Para calcular o IMC: peso / (altura²)
+------------------------------------------------------
+
+Pedir uma idade e dizer se a pessoa pode tirar carteira de motorista.
+
+------------------------------------------------------
+
+Criar um programa que peça três números e exiba-os em ordem crescente.​
+
+------------------------------------------------------
+
+Criar um programa que converta horas para minutos.​
+
+------------------------------------------------------
+
+Criar um programa que peça um valor e exiba quantas cédulas de R$200, R$100, R$50, R$20, R$10, R$5 e R$1 seriam necessárias para formar esse valor.​
+
+------------------------------------------------------
+
+Criar um programa que peça um número e exiba sua raiz quadrada.​
+
+------------------------------------------------------
+
+Cálculo do IMC: Crie uma função chamada calcular_imc que recebe a altura e o peso de uma pessoa como parâmetros e retorna o Índice de Massa Corporal (IMC) da pessoa. ​
+Para calcular o IMC: peso / (altura²)​
+
+------------------------------------------------------
 
 Cálculo do Raio de um Círculo: Crie uma função chamada raio_circulo que recebe a área de um círculo como parâmetro e retorna o raio desse círculo.  Para calcular a área do circulo:
+​
+------------------------------------------------------
 
-Cálculo do Volume de um Cilindro: Crie uma função chamada volume_cilindro que recebe o raio da base e a altura de um cilindro como parâmetros e retorna o volume do cilindro. ○ Para calcular o volume do cilindro:
+Cálculo do Volume de um Cilindro: Crie uma função chamada volume_cilindro que recebe o raio da base e a altura de um cilindro como parâmetros e retorna o volume do cilindro. ○ Para calcular o volume do cilindro:​
+pi * raio² * altura ​
 
- pi * raio² * altura 
+Cálculo da Área de um Quadrado: Crie uma função chamada area_quadrado que recebe o lado de um quadrado como parâmetro e retorna a área do quadrado. ○ Para calcular a área do quadrado: ​
+lado * lado​
 
-Cálculo da Área de um Quadrado: Crie uma função chamada area_quadrado que recebe o lado de um quadrado como parâmetro e retorna a área do quadrado. ○ Para calcular a área do quadrado: 
+------------------------------------------------------
 
-lado * lado
+Jogo de Adivinhação Inteligente: ​
+Crie uma função chamada jogar_adivinhacao que implementa um jogo de adivinhação. O computador deve escolher um número aleatório entre 1 e 100. O jogador tem 10 tentativas para adivinhar o número. A cada tentativa, o programa deve informar se o número digitado é maior ou menor que o número secreto. Se o jogador acertar, o programa deve exibir uma mensagem de parabéns e informar o número de tentativas que ele utilizou. ​
+Desafio: A função deve implementar uma "dica inteligente" para o jogador. Se o jogador errar, a função deve sugerir um intervalo menor para o próximo palpite (por exemplo, "O número está entre 50 e 70"). ​
+​
+------------------------------------------------------
 
+Crie uma função chamada simular_banco que simula um sistema bancário simples. A função deve permitir que o usuário faça operações como: ​
+
+● Criar uma nova conta (com nome, saldo inicial) ​
+
+● Depositar dinheiro em uma conta existente ​
+
+● Sacar dinheiro de uma conta existente ​
+
+● Exibir o saldo de uma conta ​
+
+● Sair do sistema ​
+
+Implemente a função utilizando estruturas como listas ou dicionários para armazenar as informações das contas. Utilize funções auxiliares para organizar as diferentes operações do sistema bancário. A função deve ser capaz de tratar erros como saldo insuficiente, conta inexistente, etc. Por essa questão utilizar de conceito ainda não aprendido, caso prefira, pode mudar as operações para ​
+
+● Depositar dinheiro na conta ​
+
+● Sacar dinheiro da conta ​
+
+● Exibir o saldo da conta ​
+
+● Sair do sistema​
+​
+------------------------------------------------------
+
+Faça um formulário de cadastro, onde o usuário informará:​
+
+Nome:​
+
+Endereço:​
+
+Sexo (radio button):​
+
+Telefone​
+
+Celular ​
+
+Email:​
+
+Onde nenhum dos campos pode estar vazio no momento em que selecionado um botão “Enviar”, Caso isso aconteça deve ser exibido um alert na tela informando o campo vazio. ​
+
+​------------------------------------------------------
+
+Calcular Imposto de Renda (Faixas): Calcule o imposto de renda com base em faixas salariais com arrow function. ​
+
+------------------------------------------------------
+
+11. Calcular INSS: Calcule o valor do INSS (contribuição para a previdência social) com base em uma alíquota e um salário arrow function. ​
+
+------------------------------------------------------
+
+12. Calcular Juros Compostos: Calcule o valor dos juros compostos sobre um capital inicial.​
+
+------------------------------------------------------
+
+13. Simular Financiamento: Calcule o valor das parcelas de um financiamento (use uma fórmula simplificada).​
