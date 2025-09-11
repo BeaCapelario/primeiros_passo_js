@@ -34,6 +34,8 @@ Cálculo do Raio de um Círculo: Crie uma função chamada raio_circulo que rece
 Cálculo do Volume de um Cilindro: Crie uma função chamada volume_cilindro que recebe o raio da base e a altura de um cilindro como parâmetros e retorna o volume do cilindro. ○ Para calcular o volume do cilindro:​
 pi * raio² * altura ​
 
+------------------------------------------------------
+
 Cálculo da Área de um Quadrado: Crie uma função chamada area_quadrado que recebe o lado de um quadrado como parâmetro e retorna a área do quadrado. ○ Para calcular a área do quadrado: ​
 lado * lado​
 
